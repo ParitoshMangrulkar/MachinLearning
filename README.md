@@ -1,6 +1,11 @@
 # MachinLearning
 MachineLearning
 
+
+## Google
+
+https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate
+
 ## Mathematics For Machine Learning:  
 https://github.com/mml-book/mml-book.github.io
 
