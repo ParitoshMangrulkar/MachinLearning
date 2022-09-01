@@ -1,6 +1,10 @@
 # MachinLearning
 MachineLearning
 
+##
+https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python
+Author: Andrew Peter (Andy) McMahon
+
 
 ## Google
 
